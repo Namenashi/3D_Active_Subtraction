@@ -1,0 +1,6 @@
+setuptools==80.9.0
+vpython==7.6.5
+imageio
+pillow
+psutil
+matplotlib
