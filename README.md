@@ -62,7 +62,7 @@ The launcher is a Tkinter-based user interface. It does not affect the core algo
 
 It allows users to create, load, and save patterns, inspect a 3D pattern preview, and start SAS or PAS simulations after configuring settings such as screenshot capture and the interval between steps.
 
-![Launcher screenshot](img\launcher.png)
+![Launcher screenshot](img/launcher.png)
 
 ### 2.1. Interface Layout
 
@@ -95,8 +95,8 @@ The simulation interface uses VPython to visualize the three-dimensional structu
 
 The visualization allows users to inspect INCLUDED and EXCLUDED modules, Active module movements, the Sink, and changes to Trémaux markings.
 
-![Simulation screenshot](img\sas.png)
-![Simulation screenshot](img\pas.png)
+![Simulation screenshot](img/sas.png)
+![Simulation screenshot](img/pas.png)
 
 ### 3.1. Interface Layout
 
